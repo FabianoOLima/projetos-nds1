@@ -1,7 +1,7 @@
 # DSprojetos
 Algum dos Projetos de Data Science que tenho desenvolvido.
 
-__Projeto1_Bike__ - Primeiro projeto que desenvolvi no curso Nanodegree Data Science I da [Udacity](https://udacity.com)
+[Projeto1_Bike](https://github.com/FabianoOLima/DSprojetos/blob/master/Projeto1_bike.ipynb) - Primeiro projeto que desenvolvi no curso Nanodegree Data Science I da [Udacity](https://udacity.com)
 
 __Projeto2_Titanic__ - Segundo projeto que desenvolvi no curso Nanodegree Data Science I da [Udacity](https://udacity.com)
 
