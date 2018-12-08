@@ -1,8 +1,9 @@
 # DSprojetos
 Algum dos Projetos de Data Science que tenho desenvolvido.
 
-Projeto1_Bike - Primeiro projeto que desenvolvi no curso Nanodegree Data Science I da Udacity
+__Projeto1_Bike__ - Primeiro projeto que desenvolvi no curso Nanodegree Data Science I da [Udacity](https://udacity.com)
 
-Projeto2_Titanic - Segundo projeto que desenvolvi no curso Nanodegree Data Science I da Udacity
+__Projeto2_Titanic__ - Segundo projeto que desenvolvi no curso Nanodegree Data Science I da [Udacity](https://udacity.com)
 
-Projeto3_Cota_Parlamentar - Analise de gastos das cotas da Câmara dos Deputados
+__Projeto3_Cota_Parlamentar__ - Analise de gastos das cotas da [Câmara dos Deputados](https://dadosabertos.camara.leg.br/swagger/api.html#staticfile)
+
